@@ -1,16 +1,15 @@
-## Hi there 👋
+## Antonis Aristeidou 
+Most people call me Tone.
 
-<!--
-**ToneAr/ToneAr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior technical consultant at Wolfram Research Europe.
+I split my time betwwen full-stack architecture and development, dev-ops, and some mentoring and presentations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The profile picture is generated in Wolfram Language. It's a stack of parametric curves transformed through rotation matrices and eigenvalue-based stretching, with fractal harmonics layered on top and some randomness introduced in there, seeded with the string `"Tony"`. They are then stacked in 3D and viewd 'top-down'.
+
+---
+
+**Contact me:**
+- [Email](mailto:tonyaris@outlook.com)
+- [LinkedIn](www.linkedin.com/in/antonis-aristeidou)
