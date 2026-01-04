@@ -4,7 +4,7 @@ Most people call me Tone.
 Senior technical consultant at Wolfram Research Europe.
 I split my time betwwen full-stack architecture and development, dev-ops, and some mentoring and presentations.
 
-Outside of work, Linuc ricing is my current addiction.
+Outside of work, Linux ricing is my current addiction.
 
 ---
 
