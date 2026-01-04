@@ -16,4 +16,4 @@ The profile picture is generated in Wolfram Language. It's a stack of parametric
 
 **Contact me:**
 - [Email](mailto:tonyaris@outlook.com)
-- [LinkedIn](www.linkedin.com/in/antonis-aristeidou)
+- [LinkedIn](https://www.linkedin.com/in/antonis-aristeidou)
