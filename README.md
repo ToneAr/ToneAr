@@ -6,7 +6,7 @@ I split my time betwwen full-stack architecture and development, dev-ops, and so
 
 ---
 
-Outside of work, Linux and Neovim ricing is my current addiction, but i also enjoy implementing new functionality into the Wolfram Langugae using its Resource System.  
+Outside of work, Linux and Neovim ricing is my current addiction, with a side of implementing new functionality into the Wolfram Langugae using its Resource System.  
 
 ---
 
