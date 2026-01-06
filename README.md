@@ -10,7 +10,7 @@ Outside of work, Linux and Neovim ricing is my current addiction, but i also enj
 
 ---
 
-The profile picture is generated in Wolfram Language. It's a stack of parametric curves transformed through rotation matrices and eigenvalue-based stretching, with fractal harmonics layered on top and some randomness introduced in there, seeded with the string `"Tony"`. They are then stacked in 3D and viewd 'top-down'.
+The profile picture is generated in Wolfram Language. It's a stack of parametric curves transformed through rotation matrices and eigenvalue-based stretching, with fractal harmonics layered on top and some randomness introduced in there, seeded with the string `"Tony"`. They are then stacked in 3D and viewed 'top-down'.
 
 ---
 
