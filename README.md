@@ -1,5 +1,5 @@
 ## Tone
-Senior technical consultant at Wolfram Research Europe
+Principal Developer at Wolfram Research Europe
 
 ---
 
