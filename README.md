@@ -1,5 +1,5 @@
 ## Tone
-Principal Developer @ Wolfram Research Europe
+Principal Developer @ Wolfram Research Europe Ltd
 
 ---
 
